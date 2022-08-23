@@ -3,7 +3,7 @@
   "include": ["./"],
   "compilerOptions": {
     "baseUrl": "./",
-    "module": "NodeNext",
+    "module": "ESNext",
     "moduleResolution": "Node",
     "outDir": "../dist/out-tsc",
     "strict": false,
