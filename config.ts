@@ -1,4 +1,4 @@
-import type { CourseConfig } from "@notation/fieldtrip";
+import { CourseConfig } from "@notation/fieldtrip";
 import { sprint1, sprint2, sprint3 } from "./stages";
 
 const config: CourseConfig = {
