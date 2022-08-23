@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.base.json",
+  "include": ["./"],
+  "compilerOptions": {
+    "baseUrl": "./",
+    "module": "NodeNext",
+    "moduleResolution": "Node",
+    "outDir": "../dist/out-tsc",
+    "strict": false,
+    "noImplicitAny": false
+  }
+}
